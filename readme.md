@@ -1,4 +1,4 @@
-# Combinator
+# combinator
 
 A simple combinator parser library for Java >=11.
 
